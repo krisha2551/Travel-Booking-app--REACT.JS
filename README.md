@@ -88,12 +88,25 @@ src/
 ## 📸 Screenshots
 
 - Home Page
+
+<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/83d7ba97-0843-4868-b893-9bbfdc4f776c" />
+
 - Trips Listing
+
+  <img width="1920" height="1769" alt="image" src="https://github.com/user-attachments/assets/93b789f5-9aa3-4c90-84c6-97c05d8898cf" />
+
 - Trip Details
+
+  <img width="1920" height="2307" alt="image" src="https://github.com/user-attachments/assets/a0b3c741-26ad-4dd2-82c1-f8506296c8f4" />
+
 - Booking Form
+
+  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/0b5d0c9d-db68-479f-9ef8-9519a018c7b7" />
+
 - Login Page
 
-*(Screenshots included in repository)*
+<img width="1920" height="982" alt="image" src="https://github.com/user-attachments/assets/d87769c7-4d88-4f75-8a0f-3131c005fdad" />
+
 
 ---
 

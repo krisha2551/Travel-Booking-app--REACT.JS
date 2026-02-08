@@ -37,42 +37,42 @@ preview url:https://travel-booking-app-6e665.web.app/trips
 
 ## 📁 Project Structure
 
-src/
-│
-├── assets/
-├── auth/
-│ └── Auth.jsx
-│
-├── components/
-│ ├── pages/
-│ │ ├── Trips.jsx
-│ │ ├── TripDetail.jsx
-│ │ ├── BookingForm.jsx
-│ │ └── MyBookings.jsx
-│ │
-│ └── ui/
-│ ├── Navbar.jsx
-│ ├── Home.jsx
-│ ├── Loading.jsx
-│ └── ErrorElement.jsx
-│
-├── context/
-│ └── AuthContext.jsx
-│
-├── data/
-│ └── TripsData.js
-│
-├── firebase/
-│ └── config.js
-│
-├── routes/
-│ ├── Layout.jsx
-│ └── ProtectedRoutes.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-
+src/<br>
+│<br>
+├── assets/<br>
+│<br>
+├── auth/<br>
+│&nbsp;&nbsp;└── Auth.jsx<br>
+│<br>
+├── components/<br>
+│&nbsp;&nbsp;├── pages/<br>
+│&nbsp;&nbsp;│&nbsp;&nbsp;├── Trips.jsx<br>
+│&nbsp;&nbsp;│&nbsp;&nbsp;├── TripDetail.jsx<br>
+│&nbsp;&nbsp;│&nbsp;&nbsp;├── BookingForm.jsx<br>
+│&nbsp;&nbsp;│&nbsp;&nbsp;└── MyBookings.jsx<br>
+│&nbsp;&nbsp;│<br>
+│&nbsp;&nbsp;└── ui/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── Navbar.jsx<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── Home.jsx<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── Loading.jsx<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── ErrorElement.jsx<br>
+│<br>
+├── context/<br>
+│&nbsp;&nbsp;└── AuthContext.jsx<br>
+│<br>
+├── data/<br>
+│&nbsp;&nbsp;└── TripsData.js<br>
+│<br>
+├── firebase/<br>
+│&nbsp;&nbsp;└── config.js<br>
+│<br>
+├── routes/<br>
+│&nbsp;&nbsp;├── Layout.jsx<br>
+│&nbsp;&nbsp;└── ProtectedRoutes.jsx<br>
+│<br>
+├── App.jsx<br>
+├── main.jsx<br>
+└── index.css<br>
 
 ---
 

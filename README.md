@@ -111,10 +111,8 @@ src/<br>
 ---
 
 ## ⚙️ Installation & Setup
-
-1. Clone the repository
-
 ```bash
+1. Clone the repository
 
 git clone https://github.com/your-username/travelia.git
 
